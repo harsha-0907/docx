@@ -4,3 +4,4 @@ autopep8
 
 # Libraries
 python-docx
+Pillow
